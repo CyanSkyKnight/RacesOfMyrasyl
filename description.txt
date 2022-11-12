@@ -1,0 +1,20 @@
+[c/4DBF60:Description:]
+A temporary sample mod addon to help modding newbies create their own race addon.
+
+Note that I'm not really good at modding either, this mod works, but maybe for bad reasons.
+
+Also, please don't contact me for help, I won't respond anyway.
+
+[c/3ABC7A:Races:]
+-Examplarian
+
+[c/4DBF60:Developed By:]
+//You may replace this by your username.
+- Tianic#4354 (main developer)
+
+[c/4DBF60:Special Credits:]
+//But please, don't remove these, thanks.
+- MrPlague#0079 (MrPlague's Authentic Races creator)
+- Tianic#4354 (Mod made from Tianic's Example Race)
+
+

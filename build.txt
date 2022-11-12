@@ -1,0 +1,7 @@
+displayName = [c/3ABC7A:Races of Myrasyl]
+author = Cyan Sky Knight
+version = 1.0.0
+homepage = https://discord.gg/zNstBcDYXP
+modReferences = MrPlagueRaces
+includeSource = true
+sortAfter = MrPlagueRaces
